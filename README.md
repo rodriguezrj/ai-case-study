@@ -20,7 +20,8 @@ AudioStack
 
 Visit [AudioStack](https://audiostack.ai/) for more information.
 
-[![What is AudioStack](https://img.youtube.com/vi/qy-kGsnMOR8/0.jpg)]([https://www.youtube.com/watch?v=qy-kGsnMOR8])
+
+[![What is AudioStack](https://img.youtube.com/vi/qy-kGsnMOR8/0.jpg)](https://www.youtube.com/watch?v=qy-kGsnMOR8)
 
 
 * When was the company incorporated?
@@ -62,8 +63,8 @@ Starting with audio advertisments, AudioStack is currently in use to personalise
 
 ### Example
 
-[![Podcast Quick Start Example](https://img.youtube.com/vi/_hAjlq97P9k/0.jpg)]([https://www.youtube.com/watch?v=_hAjlq97P9k])
-<iframe width="560" height="315" src="https://youtu.be/_hAjlq97P9k" frameborder="0" allowfullscreen></iframe>
+
+[![Podcast Quick Start Example](https://img.youtube.com/vi/_hAjlq97P9k/0.jpg)](https://www.youtube.com/watch?v=_hAjlq97P9k)
 
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
